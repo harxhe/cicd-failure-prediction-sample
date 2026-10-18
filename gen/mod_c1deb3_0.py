@@ -1,0 +1,12 @@
+VALUE_c1deb3_0_0 = 0
+VALUE_c1deb3_0_1 = 1
+VALUE_c1deb3_0_2 = 2
+VALUE_c1deb3_0_3 = 3
+VALUE_c1deb3_0_4 = 4
+VALUE_c1deb3_0_5 = 5
+VALUE_c1deb3_0_6 = 6
+VALUE_c1deb3_0_7 = 7
+VALUE_c1deb3_0_8 = 8
+VALUE_c1deb3_0_9 = 9
+VALUE_c1deb3_0_10 = 10
+VALUE_c1deb3_0_11 = 11
