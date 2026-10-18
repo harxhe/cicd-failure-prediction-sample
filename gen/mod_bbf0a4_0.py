@@ -1,0 +1,15 @@
+VALUE_bbf0a4_0_0 = 0
+VALUE_bbf0a4_0_1 = 1
+VALUE_bbf0a4_0_2 = 2
+VALUE_bbf0a4_0_3 = 3
+VALUE_bbf0a4_0_4 = 4
+VALUE_bbf0a4_0_5 = 5
+VALUE_bbf0a4_0_6 = 6
+VALUE_bbf0a4_0_7 = 7
+VALUE_bbf0a4_0_8 = 8
+VALUE_bbf0a4_0_9 = 9
+VALUE_bbf0a4_0_10 = 10
+VALUE_bbf0a4_0_11 = 11
+VALUE_bbf0a4_0_12 = 12
+VALUE_bbf0a4_0_13 = 13
+VALUE_bbf0a4_0_14 = 14
